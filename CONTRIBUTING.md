@@ -7,7 +7,7 @@ Thank you for your interest in contributing to **LockLite**! We welcome contribu
 1. **Fork the Repository**: Click the **Fork** button on GitHub to create your copy of the repo.
 2. **Clone Your Fork**: Download your copy to your local machine.
    ```bash
-   git clone https://github.com/yourusername/LockLite.git
+   git clone https://github.com/YuheshPandian/LockLite.git
    ```
 3. **Create a New Branch**: Work on a separate branch for each feature or fix.
    ```bash

@@ -40,11 +40,12 @@ LockLite is a modern, lightweight, and secure password manager designed for simp
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
 We welcome contributions! Feel free to open issues or submit pull requests.
+Please refer the [Contributing.md](Contributing.md)
 
 
 ---
